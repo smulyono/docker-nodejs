@@ -1,3 +1,3 @@
 #!/bin/sh
 # Build base image 
-docker build --rm -t smulyono/dev-nodejs:1.0 .
+docker build --rm -t smulyono/dev-nodejs:2.0 .
